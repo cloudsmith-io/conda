@@ -3,7 +3,6 @@ line-length = 99
 target-version = ['py36', 'py37', 'py38']
 extend-exclude = '''
 ^/(
-    conda/_vendor
   | devenv
 )/
 '''
